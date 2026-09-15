@@ -1,7 +1,7 @@
 package com.ism.domain;
 
 public final class Salle extends AbstractEntity {
-// Salle est final car aucune classe ne peu hériter de Salle
+// Salle est final car aucune classe ne peut hériter de Salle
 
     private int num;
     private TypeSalle type;

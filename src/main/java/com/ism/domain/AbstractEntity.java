@@ -1,6 +1,6 @@
 package com.ism.domain;
 
-public class AbstractEntity {
+public abstract class AbstractEntity {
     protected int id;
 
     protected AbstractEntity() {
