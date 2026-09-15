@@ -3,7 +3,7 @@ package com.ism.domain;
 import java.util.Date;
 
 public final class Reservation extends AbstractEntity {
-// Reservation est final car aucune classe ne peu hériter de Reservation
+// Reservation est final car aucune classe ne peut hériter de Reservation
 
     private String auNomDe;
     private Date date;
