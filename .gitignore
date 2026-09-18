@@ -8,3 +8,6 @@ target/
 .vscode/
 .idea/
 *.iml
+
+# Views (non utilisé à cette étape)
+src/main/java/com/ism/views/
